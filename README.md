@@ -3,6 +3,7 @@ Write a program to display the multiplication tables from 1 x 1 to 9 x 9 in a ma
 
 
 <h2>Output</h2>
+<table>
 <tr><td>
          	1	2	3	4	5	6	7	8	9 </td></tr>
 <tr><td>	2	4	6	8	10	12	14	16	18</tr></td>
@@ -13,4 +14,4 @@ Write a program to display the multiplication tables from 1 x 1 to 9 x 9 in a ma
 <tr><td>	7	14	21	28	35	42	49	56	63</tr></td>
 <tr><td>	8	16	24	32	40	48	56	64	72</tr></td>
 <tr><td>	9	18	27	36	45	54	63	72	81</tr></td>
-
+</table>
